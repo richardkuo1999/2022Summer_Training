@@ -1,12 +1,9 @@
 # 2022Summer_Training
 
-1.Pless donwnload all file.
-
-2.Watch the Description video.
-
-3.let Exercise 2 can run.
-
-4. If have any problem you can ask me in [here](https://github.com/richardkuo1999/2022Summer_Training/issues).
+1.Pless donwnload all file.<br>
+2.Watch the Description video.<br>
+3.let Exercise 2 can run. <br>
+4. If have any problem you can ask me in [here](https://github.com/richardkuo1999/2022Summer_Training/issues).<br>
 
 # exercise 1
 
