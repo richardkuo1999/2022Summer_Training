@@ -2,7 +2,7 @@
 
 1.Pless donwnload all file.<br>
 2.Watch the Description video.<br>
-3.let Exercise 2 can run. <br>
+3.let Exercise 2 can run on the [Colab](https://colab.research.google.com). <br>
 4. If have any problem you can ask me in [here](https://github.com/richardkuo1999/2022Summer_Training/issues).<br>
 
 # exercise 1
